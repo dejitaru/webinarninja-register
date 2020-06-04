@@ -1,0 +1,25 @@
+{
+  "name": "webinarnija-register",
+  "version": "1.0.0",
+  "description": "Register an array of users into a webinarninja webinar",
+  "main": "webinarninja.js",
+  "dependencies": {
+    "puppeteer": "^3.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dejitaru/webinarninja-register.git"
+  },
+  "keywords": [
+    "webinarninja"
+  ],
+  "author": "dejitaru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dejitaru/webinarninja-register/issues"
+  },
+  "homepage": "https://github.com/dejitaru/webinarninja-register#readme"
+}
